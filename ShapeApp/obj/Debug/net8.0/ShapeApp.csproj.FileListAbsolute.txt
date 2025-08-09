@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\ShapeApp\bin\Debug\net8.0\ShapeApp.exe
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\ShapeApp\bin\Debug\net8.0\ShapeApp.deps.json
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\ShapeApp\bin\Debug\net8.0\ShapeApp.runtimeconfig.json
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\ShapeApp\bin\Debug\net8.0\ShapeApp.dll
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\ShapeApp\bin\Debug\net8.0\ShapeApp.pdb
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\ShapeApp\obj\Debug\net8.0\ShapeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\ShapeApp\obj\Debug\net8.0\ShapeApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\ShapeApp\obj\Debug\net8.0\ShapeApp.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\ShapeApp\obj\Debug\net8.0\ShapeApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\ShapeApp\obj\Debug\net8.0\ShapeApp.sourcelink.json
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\ShapeApp\obj\Debug\net8.0\ShapeApp.dll
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\ShapeApp\obj\Debug\net8.0\refint\ShapeApp.dll
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\ShapeApp\obj\Debug\net8.0\ShapeApp.pdb
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\ShapeApp\obj\Debug\net8.0\ShapeApp.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\ShapeApp\obj\Debug\net8.0\ref\ShapeApp.dll
