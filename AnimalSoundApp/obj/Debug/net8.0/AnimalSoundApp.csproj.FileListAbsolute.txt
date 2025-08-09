@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\AnimalSoundApp\bin\Debug\net8.0\AnimalSoundApp.exe
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\AnimalSoundApp\bin\Debug\net8.0\AnimalSoundApp.deps.json
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\AnimalSoundApp\bin\Debug\net8.0\AnimalSoundApp.runtimeconfig.json
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\AnimalSoundApp\bin\Debug\net8.0\AnimalSoundApp.dll
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\AnimalSoundApp\bin\Debug\net8.0\AnimalSoundApp.pdb
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\AnimalSoundApp\obj\Debug\net8.0\AnimalSoundApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\AnimalSoundApp\obj\Debug\net8.0\AnimalSoundApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\AnimalSoundApp\obj\Debug\net8.0\AnimalSoundApp.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\AnimalSoundApp\obj\Debug\net8.0\AnimalSoundApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\AnimalSoundApp\obj\Debug\net8.0\AnimalSoundApp.dll
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\AnimalSoundApp\obj\Debug\net8.0\refint\AnimalSoundApp.dll
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\AnimalSoundApp\obj\Debug\net8.0\AnimalSoundApp.pdb
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\AnimalSoundApp\obj\Debug\net8.0\AnimalSoundApp.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Dcit318Assignment2\-dcit318-assignment2-11151818\AnimalSoundApp\obj\Debug\net8.0\ref\AnimalSoundApp.dll
